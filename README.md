@@ -14,18 +14,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=husnain241&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-# 🚀 Popular Projects:
+# 💼 Services I Offer:
 
-<p align="center">
-  <a href="https://github.com/husnain241/REPOSTORY_NAME">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=husnain241&repo=REPOSTORY_NAME&theme=dark" />
-  </a>
-  <a href="https://github.com/husnain241/SECOND_REPO_NAME">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=husnain241&repo=SECOND_REPO_NAME&theme=dark" />
-  </a>
-</p>
-[![](https://visitcount.itsvg.in/api?id=husnain241&icon=0&color=0)](https://visitcount.itsvg.in)
+| Service | Description | Price Starts At | Link |
+| :--- | :--- | :--- | :--- |
+| **Full stack Application** | Building Apllication Enterprise. | ⭐ $80-650 | [Order Now 🚀](https://www.fiverr.com/s/1qDz8d9) |
+| **Full Stack Authentication** | Building Angular Standalone Components and Backend .Net Role Base Authrization . | ⭐ $80 | [Order Now 🚀](https://www.fiverr.com/s/1qDz82K) |
+| **.NET Backend Development mvc** | Robust ASP.NET Core MVC and View pages. | ⭐ $100 | [Order Now 🚀](https://www.fiverr.com/s/R7p0gZV) |
 
+> 📬 **Custom Orders:** Have a specific requirement? [Message me on Fiverr](https://www.fiverr.com/s/m5PX4lb) to discuss your project!
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
